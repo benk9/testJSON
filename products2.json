@@ -1,1 +1,90 @@
-[{"categoryId":1,"productId":1,"name":"Calamari","description":"","image":null,"basePrice":1.25},{"categoryId":1,"productId":2,"name":"Ceasar Salad","description":"","image":null,"basePrice":3.75},{"categoryId":1,"productId":3,"name":"Chicken Strips","description":"","image":null,"basePrice":6},{"categoryId":1,"productId":4,"name":"Fries","description":"","image":null,"basePrice":3.5},{"categoryId":1,"productId":5,"name":"Yam Fries","description":"","image":null,"basePrice":3},{"categoryId":1,"productId":6,"name":"Assorted Olives","description":"","image":null,"basePrice":3.5},{"categoryId":1,"productId":7,"name":"Nachos","description":"","image":null,"basePrice":3.75},{"categoryId":1,"productId":8,"name":"Chicken Wings","description":"","image":null,"basePrice":3.5},{"categoryId":1,"productId":9,"name":"House Salad","description":"","image":null,"basePrice":3.95},{"categoryId":1,"productId":10,"name":"Chips and Salsa","description":"Cheese Pizza","image":null,"basePrice":4.95},{"categoryId":1,"productId":11,"name":"Potato Skins","description":"","image":null,"basePrice":3.95}]
+[
+  {
+    "categoryId": 1,
+    "productId": 1,
+    "name": "Calamari",
+    "description": "Calamari is a recipe prepared with squid, usually (but not always) battered and deep-fried.",
+    "image": null,
+    "basePrice": 1.25
+  },
+  {
+    "categoryId": 1,
+    "productId": 2,
+    "name": "Ceasar Salad",
+    "description": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served tableside.",
+    "image": null,
+    "basePrice": 3.75
+  },
+  {
+    "categoryId": 1,
+    "productId": 3,
+    "name": "Chicken Strips",
+    "description": "Chicken fingers, also known as chicken tenders, chicken goujons, chicken strips or chicken fillets",
+    "image": null,
+    "basePrice": 6
+  },
+  {
+    "categoryId": 1,
+    "productId": 4,
+    "name": "Fries",
+    "description": "These are deep-fried, very thin, salted slices of potato",
+    "image": null,
+    "basePrice": 3.5
+  },
+  {
+    "categoryId": 1,
+    "productId": 5,
+    "name": "Yam Fries",
+    "description": "These are deep-fried, very thin, salted slices of Yam",
+    "image": null,
+    "basePrice": 3
+  },
+  {
+    "categoryId": 1,
+    "productId": 6,
+    "name": "Assorted Olives",
+    "description": "Assorted Olives served warm",
+    "image": null,
+    "basePrice": 3.5
+  },
+  {
+    "categoryId": 1,
+    "productId": 7,
+    "name": "Nachos",
+    "description": "Nachos is a dish from northern Mexico that consists of tortilla chips (or totopos) covered with mince and cheese or a cheese-based sauce often served as a snack.",
+    "image": null,
+    "basePrice": 3.75
+  },
+  {
+    "categoryId": 1,
+    "productId": 8,
+    "name": "Chicken Wings",
+    "description": "Served sauced, Hot, Teriyaki, Honey Garlic, Sweat chili heat",
+    "image": null,
+    "basePrice": 3.5
+  },
+  {
+    "categoryId": 1,
+    "productId": 9,
+    "name": "House Salad",
+    "description": "Garden Greens with balsamic dressing",
+    "image": null,
+    "basePrice": 3.95
+  },
+  {
+    "categoryId": 1,
+    "productId": 10,
+    "name": "Chips and Salsa",
+    "description": "Warm Chips Served with Salsa",
+    "image": null,
+    "basePrice": 4.95
+  },
+  {
+    "categoryId": 1,
+    "productId": 11,
+    "name": "Potato Skins",
+    "description": "Twice Baked fully loaded",
+    "image": null,
+    "basePrice": 3.95
+  }
+]
