@@ -24,7 +24,7 @@
     "basePrice": 6
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 4,
     "name": "Wakame",
     "description": "Wakame is a thin and stringy sea vegetable, more commonly known as seaweed, deep green in color and used in making seaweed salad and miso soup",
@@ -32,7 +32,7 @@
     "basePrice": 3.5
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 5,
     "name": "Veggie Sunomono",
     "description": "Sunomono is a Japanese cucumber salad served at the beginning of meals. It's made of marinated cucumber slices topped with sesame seeds. It can be served with a thin, vinegar-based sauce such as Amazu sauce or Ponzu sauce, or with a simple sauce made of just vinegar and sugar.",
@@ -40,7 +40,7 @@
     "basePrice": 3
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 6,
     "name": "Gomae",
     "description": "Gomae is a Japanese side dish. It is made with vegetables and sesame dressing",
@@ -48,7 +48,7 @@
     "basePrice": 3.5
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 7,
     "name": "Gyoza",
     "description": "Gyoza are dumplings filled with ground meat and vegetables and wrapped in a thin dough. ",
@@ -56,7 +56,7 @@
     "basePrice": 3.75
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 8,
     "name": "Agedashi Tofu",
     "description": "Agedashi Tofu is one of those magical dishes where a few simple ingredients come together in a harmonizing synergy that elevates the dish from humble to divine.",
@@ -64,7 +64,7 @@
     "basePrice": 3.5
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 9,
     "name": "Chicken Karaage",
     "description": "Japanese fried chicken is made by marinating bite-size pieces of chicken in sake, soy sauce, ginger and garlic before coating them generously with potato starch.",
@@ -72,7 +72,7 @@
     "basePrice": 3.95
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 10,
     "name": "Ika karaage",
     "description": "Deep fried squid",
@@ -80,7 +80,7 @@
     "basePrice": 4.95
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 11,
     "name": "Takoyaki",
     "description": "Takoyaki is a ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus (tako), tempura scraps (tenkasu), pickled ginger, and green onion",

@@ -16,7 +16,7 @@
     "basePrice": 3.75
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 3,
     "name": "Chicken Strips",
     "description": "Chicken fingers, also known as chicken tenders, chicken goujons, chicken strips or chicken fillets",
@@ -48,7 +48,7 @@
     "basePrice": 3.5
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 7,
     "name": "Nachos",
     "description": "Nachos is a dish from northern Mexico that consists of tortilla chips (or totopos) covered with mince and cheese or a cheese-based sauce often served as a snack.",
@@ -56,7 +56,7 @@
     "basePrice": 3.75
   },
   {
-    "categoryId": 1,
+    "categoryId": 2,
     "productId": 8,
     "name": "Chicken Wings",
     "description": "Served sauced, Hot, Teriyaki, Honey Garlic, Sweat chili heat",
@@ -64,7 +64,7 @@
     "basePrice": 3.5
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 9,
     "name": "House Salad",
     "description": "Garden Greens with balsamic dressing",
@@ -72,7 +72,7 @@
     "basePrice": 3.95
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 10,
     "name": "Chips and Salsa",
     "description": "Warm Chips Served with Salsa",
@@ -80,7 +80,7 @@
     "basePrice": 4.95
   },
   {
-    "categoryId": 1,
+    "categoryId": 3,
     "productId": 11,
     "name": "Potato Skins",
     "description": "Twice Baked fully loaded",
